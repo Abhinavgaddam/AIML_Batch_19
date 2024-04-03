@@ -7,3 +7,4 @@
 6.[lab 6](https://github.com/Abhinavgaddam/AIML_Batch_19/blob/main/Assign_6.ipynb)
 7.[lab 7](https://github.com/Abhinavgaddam/AIML_Batch_19/blob/main/Assign_7.ipynb)
 8.[lab 8](https://github.com/Abhinavgaddam/AIML_Batch_19/blob/main/Assign_8.ipynb)
+9.[lab 9](https://github.com/Abhinavgaddam/AIML_Batch_19/edit/main/Assign_9.ipynb)
